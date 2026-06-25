@@ -71,13 +71,7 @@ streamlit run app.py
 * Space
 * Vehicles
 
-## Future Improvements
 
-* Add Retrieval-Augmented Generation (RAG)
-* Support PDF document search
-* Store embeddings using FAISS or ChromaDB
-* Compare different embedding models
-* Add answer generation using an LLM
 
 ## Author
 
